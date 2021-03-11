@@ -6,7 +6,7 @@
 ## Настрйка среды
 
 ```
-git clone https://github.com/antoncom/np_autotest.git```
+git clone https://github.com/antoncom/np_autotest.git
 cd np_autotest
 ```
 
@@ -52,4 +52,4 @@ cd np_autotest
 
 ## Дополнительно
 
-Web Browser Automation - организация среды тестирования на основе SeleniumBase (PDF)
+[Web Browser Automation - организация среды тестирования на основе SeleniumBase (PDF)](https://github.com/antoncom/np_autotest/blob/main/docs/PROJ-2829156409-110321-0219.pdf)
