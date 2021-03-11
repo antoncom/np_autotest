@@ -50,3 +50,6 @@ cd np_autotest
 # pytest -v                                 # All tests
 ```
 
+## Дополнительно
+
+Web Browser Automation - организация среды тестирования на основе SeleniumBase (PDF)
