@@ -3,7 +3,7 @@
 
 Среда выполнения автоматических тестов NetPing при использовании Selenium, SeleniumBase и Helium.
 
-## Настрйка среды
+## Настройка среды
 
 ```
 git clone https://github.com/antoncom/np_autotest.git
