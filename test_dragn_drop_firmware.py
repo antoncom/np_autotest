@@ -5,7 +5,7 @@ import helium as hm
 class ApplyFirmware(BaseCase):
 
     firmware_valid   =  True
-    web_page_address =  "http://visor40:ping40@tst.alentis.ru:8040/update.html"
+    web_page_address =  "http://_USER_:_PASSWORD_@tst.alentis.ru:8040/update.html"
     firmware_path    =  "/home/anton/python_projects/np_autotest/data/"
     fw_fake_filename =  "[Pub] DKSF 70.7.4.R.npu" # required becase of bug in the drag-n-drop feature
     fw_real_filename =  "test_firmware4.npu"
