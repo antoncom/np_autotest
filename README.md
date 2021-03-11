@@ -5,7 +5,7 @@
 
 ## Настрйка среды
 
-'''console
+'''
 # Setup Python and Pip for Linux (Ubuntu)
 # =======================================
 # sudo apt-get update
@@ -37,7 +37,7 @@
 
 ## Запуск тестов
 
-'''console
+'''
 # Run test
 # ========
 
