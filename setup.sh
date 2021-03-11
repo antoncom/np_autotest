@@ -1,11 +1,5 @@
+#!/bin/bash
 
-# NetPing Autotests
-
-Среда выполнения автоматических тестов NetPing при использовании Selenium, SeleniumBase и Helium.
-
-## Настрйка среды
-
-'''bash
 # Setup Python and Pip for Linux (Ubuntu)
 # =======================================
 # sudo apt-get update
@@ -30,18 +24,12 @@
 
 # sbase install chromedriver
 # sbase install geckodriver
-# seleniumbase install edgedriver   # (for Windows only)
-# seleniumbase install iedriver     # (for Windows only)
+# seleniumbase install edgedriver	# (for Windows only)
+# seleniumbase install iedriver		# (for Windows only)
 # sbase install operadriver
-'''
 
-## Запуск тестов
-
-'''bash
 # Run test
 # ========
 
-# pytest test_dragn_drop_firmware.py -v     # Single test
-# pytest -v                                 # All tests
-'''
-
+# pytest test_dragn_drop_firmware.py -v 	# Single test
+# pytest -v 								# All tests
