@@ -6,6 +6,11 @@
 ## Настрйка среды
 
 ```
+git clone https://github.com/antoncom/np_autotest.git```
+cd np_autotest
+```
+
+```
 # Setup Python and Pip for Linux (Ubuntu)
 # =======================================
 # sudo apt-get update
