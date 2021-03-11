@@ -5,7 +5,7 @@
 
 ## Настрйка среды
 
-'''
+```
 # Setup Python and Pip for Linux (Ubuntu)
 # =======================================
 # sudo apt-get update
@@ -33,15 +33,15 @@
 # seleniumbase install edgedriver   # (for Windows only)
 # seleniumbase install iedriver     # (for Windows only)
 # sbase install operadriver
-'''
+```
 
 ## Запуск тестов
 
-'''
+```
 # Run test
 # ========
 
 # pytest test_dragn_drop_firmware.py -v     # Single test
 # pytest -v                                 # All tests
-'''
+```
 
